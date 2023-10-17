@@ -8,6 +8,25 @@
   
 - 🌱 I’m currently learning more about backend....
 - 📫 kaspourmohammad@gmail.com
+- Skills:
+- 🌳MySQL => Advanced
+- 🌳JavaScript => Advanced
+- 🌳NodeJS => Advanced
+- 🌳RestAPI => Advanced
+- 🌳Swagger => Advanced
+- 🌳GraphQL => Advanced
+- 🌳SocketIO => Advanced
+- 🌳Sequelize => Advanced
+- 🌳MySQL2 => Advanced
+- 🌳MongoDB => Advanced
+- 🪴Docker => Intermediate
+- 🪴React => Intermediate
+- 🪴HTML => Intermediate
+- 🪴CSS => Intermediate
+- 🪴Python => Intermediate
+- 🪴Git => Intermediate
+- 🪴OpenCV => Intermediate
+- 🌱Flutter => Basic
 
 <!---
 mohammadReza-kaspour/mohammadReza-kaspour is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
